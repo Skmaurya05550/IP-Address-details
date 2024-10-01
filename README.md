@@ -10,7 +10,7 @@ A simple web-based IP Address Tracker that allows users to input an IP address a
 
 ## Screenshot
 
-![IP Address Tracker](https://ibb.co/QNqxknj.webp)
+![IP Address Tracker](https://ibb.co/QNqxknj)
 
 ## How to Use
 
